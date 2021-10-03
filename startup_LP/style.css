@@ -11,5 +11,22 @@ html {
 }
 
 h1 {
-
+  font-size: 3rem;
+  color: #c5d7ea;
+}
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+.btn-primary {
+  background-color: #fd0d71;
+  border-color: #fd0d71;
+}
+.btn-primary:hover {
+  background-color: #a53966;
+  border-color: #a53966;
+}
+.btn-xl {
+  padding: 1rem 2rem;
 }
