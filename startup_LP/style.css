@@ -14,18 +14,29 @@ h1 {
   font-size: 3rem;
   color: #c5d7ea;
 }
+
+hr {
+  border-color: #fd0d71;
+  border-width: 5px;
+  max-width: 65px;
+  border: 2px solid #fd0d71;
+  
+}
 .btn {
   font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
+
 }
 .btn-primary {
   background-color: #fd0d71;
   border-color: #fd0d71;
+  
 }
 .btn-primary:hover {
   background-color: #a53966;
   border-color: #a53966;
+  border-width: 4px;
 }
 .btn-xl {
   padding: 1rem 2rem;
